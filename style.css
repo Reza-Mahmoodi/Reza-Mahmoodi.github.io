@@ -411,7 +411,7 @@ html[data-theme="dark"] .icon-moon{display:block;}
   background:var(--bg); padding:32px; position:relative;
 }
 .edu-degree{
-  font-family:var(--font-mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  font-family:var(--font-mono); font-size:11px; letter-spacing:.1em; 
   color:var(--accent-2); display:inline-block; margin-bottom:12px;
 }
 .edu-card h3{font-family:var(--font-display); font-weight:600; font-size:1.4rem; margin-bottom:6px;}
